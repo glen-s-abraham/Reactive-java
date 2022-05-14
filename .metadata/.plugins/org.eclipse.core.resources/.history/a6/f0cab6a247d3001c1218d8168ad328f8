@@ -1,0 +1,18 @@
+package com.glen.reactor.projectreactor.mono;
+
+import reactor.core.publisher.Mono;
+
+public class MonoSubscribe {
+	public static void main(String args[]) {
+		//publisher
+		Mono<String> mono=Mono.just("ball");
+		//Triggers the publisher-> mono.subscribe();
+		mono.subscribe(
+				item->System.out.println(item),
+				err->err.printStackTrace(),
+				()->System.out.println("Completed")
+		);
+		
+		
+	}
+}

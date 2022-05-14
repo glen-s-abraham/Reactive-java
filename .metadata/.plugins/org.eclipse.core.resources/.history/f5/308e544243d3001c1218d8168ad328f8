@@ -1,0 +1,9 @@
+package com.glen.reactor.projectreactor.mono;
+
+import reactor.core.publisher.Mono;
+
+public class MonoJust {
+	public static void main(String args[]) {
+		Mono.just(i);
+	}
+}
