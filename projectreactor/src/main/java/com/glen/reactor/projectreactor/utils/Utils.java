@@ -23,4 +23,12 @@ public class Utils {
 	public static Faker faker() {
 		return FAKER;
 	}
+	
+	public static void sleepSeconds(int seconds) {
+		try {
+			Thread.sleep(seconds);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 }

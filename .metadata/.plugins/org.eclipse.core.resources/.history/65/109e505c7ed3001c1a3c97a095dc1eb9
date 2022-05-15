@@ -1,0 +1,19 @@
+package com.glen.reactor.projectreactor.mono;
+
+import com.glen.reactor.projectreactor.utils.Utils;
+
+import reactor.core.publisher.Mono;
+
+public class MonoSupplier {
+	
+	private static String getName() {
+		System.out.println("Generating name.....");
+		return Utils.faker().name().fullName();
+	}
+	
+	public static void main(String args[]) {
+		//use just when you have data already
+		Mono.fromSupplier(()->getName());
+	}
+	
+}

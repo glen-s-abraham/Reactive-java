@@ -1,0 +1,13 @@
+package com.glen.reactor.projectreactor.mono;
+
+public class MonoSupplier {
+	
+	private static String getName() {
+		
+	}
+	
+	public static void main(String args[]) {
+		
+	}
+	
+}

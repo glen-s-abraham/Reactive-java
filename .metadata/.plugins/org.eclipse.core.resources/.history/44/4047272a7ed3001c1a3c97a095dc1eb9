@@ -1,0 +1,15 @@
+package com.glen.reactor.projectreactor.mono;
+
+import com.glen.reactor.projectreactor.utils.Utils;
+
+public class MonoSupplier {
+	
+	private static String getName() {
+		return Utils.faker().name().fullName();
+	}
+	
+	public static void main(String args[]) {
+		
+	}
+	
+}

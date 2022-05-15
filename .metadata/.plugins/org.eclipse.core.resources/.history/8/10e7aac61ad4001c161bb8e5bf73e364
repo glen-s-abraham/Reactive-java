@@ -1,0 +1,5 @@
+package com.glen.reactor.projectreactor.mono;
+
+public class MonoFuture {
+
+}

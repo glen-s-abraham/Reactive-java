@@ -1,0 +1,17 @@
+package com.glen.reactor.projectreactor.mono;
+
+import com.glen.reactor.projectreactor.utils.Utils;
+
+import reactor.core.publisher.Mono;
+
+public class MonoSupplierRefactor {
+	
+	private static Mono<String> getName() {
+		Utils.sleepSeconds(3000);
+		return Mono.from(()->.faker().name().fullName();
+	}
+	
+	public static void main(String args[]) {
+		
+	}
+}

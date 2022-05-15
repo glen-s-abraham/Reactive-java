@@ -1,0 +1,9 @@
+package com.glen.reactor.projectreactor.mono;
+
+public class MonoRunnable {
+	
+	public static void main(String args[]) {
+		
+	}
+	
+}
