@@ -13,7 +13,7 @@ public class Utils {
 	}
 	
 	public static Consumer<Throwable> onError(){
-		return err->err.getMessage();
+		return err->System.out.println(err.getMessage());
 	}
 	
 	public static Runnable onComplete(){

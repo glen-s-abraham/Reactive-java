@@ -1,0 +1,10 @@
+package com.glen.reactor.projectreactor.mono;
+
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class Assignment {
+	
+	private static final Path PATH = Paths.get("src/main/resources/assignment/sec01");
+
+}
