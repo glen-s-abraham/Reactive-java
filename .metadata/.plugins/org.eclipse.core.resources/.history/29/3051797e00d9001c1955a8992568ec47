@@ -1,0 +1,15 @@
+package com.glen.reactor.projectreactor.flux;
+
+import java.util.List;
+import java.util.stream.Stream;
+
+public class FluxStream {
+
+	public static void main(String[] args) {
+		List<Integer> list=List.of(1,2,3,4,5);
+		Stream<Integer> stream = list.stream();
+		
+
+	}
+
+}

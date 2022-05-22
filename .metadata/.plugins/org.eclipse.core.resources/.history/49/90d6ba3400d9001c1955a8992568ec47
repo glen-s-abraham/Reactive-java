@@ -1,0 +1,10 @@
+package com.glen.reactor.projectreactor.flux;
+
+public class FluxStream {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

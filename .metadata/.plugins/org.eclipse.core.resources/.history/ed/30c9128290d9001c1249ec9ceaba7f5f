@@ -1,0 +1,10 @@
+package com.glen.reactor.projectreactor.flux;
+
+import com.glen.reactor.projectreactor.utils.Utils;
+
+public class NameGenerator {
+	
+	private static String getName() {
+		return Utils.faker().name().fullName();
+	}
+}

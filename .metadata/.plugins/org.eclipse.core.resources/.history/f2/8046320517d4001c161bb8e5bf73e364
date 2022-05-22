@@ -1,7 +1,0 @@
-package com.glen.reactor.projectreactor.mono;
-
-public class MonoSupplierRefactor {
-	public static void main(Stirng args[]) {
-		
-	}
-}

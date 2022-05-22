@@ -1,0 +1,5 @@
+package com.glen.reactor.projectreactor.flux;
+
+public class FluxToMono {
+
+}

@@ -1,7 +1,0 @@
-package com.glen.reactor.projectreactor.mono;
-
-public class MonoSupplier {
-	public static void main(String args[]) {
-		
-	}
-}
