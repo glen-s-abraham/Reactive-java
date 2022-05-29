@@ -1,9 +1,0 @@
-package com.glen.reactor.projectreactor.flux;
-
-import java.util.List;
-
-public class FluxVsList {
-	public static void main(String args[]) {
-		List<String>names=NameGenerator.getNamesList(5);
-	}
-}
