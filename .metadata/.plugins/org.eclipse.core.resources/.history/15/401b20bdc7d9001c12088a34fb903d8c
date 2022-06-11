@@ -1,7 +1,0 @@
-package com.glen.reactor.projectreactor.flux;
-
-public class Assignment {
-	public static void main(String args[]) {
-		
-	}
-}
