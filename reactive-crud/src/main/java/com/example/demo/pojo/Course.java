@@ -1,13 +1,22 @@
 package com.example.demo.pojo;
 
 
+import javax.validation.constraints.NotNull;
+
+import org.springframework.lang.NonNull;
+
 public class Course {
+	@NotNull
 	private Integer id;
+	@NonNull
 	private String title;
 	private String description;
+	@NonNull
 	private String author;
 	public Course() {}
 	public Course(Integer id, String title, String description, String author) {
+		
+		
 		this.id = id;
 		this.title = title;
 		this.description = description;

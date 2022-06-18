@@ -1,5 +1,6 @@
 package com.glen.reactor.projectreactor.utils;
 
+import java.time.Duration;
 import java.util.function.Consumer;
 
 import com.github.javafaker.Faker;
@@ -26,7 +27,7 @@ public class Utils {
 	
 	public static void sleepSeconds(int seconds) {
 		try {
-			Thread.sleep(seconds);
+			Thread.sleep(seconds*1000);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
