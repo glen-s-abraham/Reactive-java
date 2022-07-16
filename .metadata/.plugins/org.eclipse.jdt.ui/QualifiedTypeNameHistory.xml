@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.mono.MonoJust"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicReference"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.flux.NameGenerator"/>
-    <fullyQualifiedTypeName name="java.lang.Float"/>
-    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.flux.FluxFromMono"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.Flow.Subscription"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
-    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="org.reactivestreams.Subscriber"/>
     <fullyQualifiedTypeName name="reactor.core.publisher.FluxSink"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
@@ -31,15 +19,12 @@
     <fullyQualifiedTypeName name="java.nio.file.Path"/>
     <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
     <fullyQualifiedTypeName name="reactor.core.publisher.SynchronousSink"/>
-    <fullyQualifiedTypeName name="java.util.Objects"/>
-    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.flux.FileReaderService"/>
     <fullyQualifiedTypeName name="reactor.core.publisher.Mono"/>
     <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.Operators.DefaultIfEmpty"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.Operators.PurchaseOrder"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
@@ -53,11 +38,26 @@
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.PreparedStatementCallback"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.hotAndColdPublishers.PurchaseOrder"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="reactor.core.publisher.Flux"/>
-    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.utils.DefaultSubscriber"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.hotAndColdPublishers.OrderService"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.hotAndColdPublishers.RevenueService"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.hotAndColdPublishers.InventoryService"/>
+    <fullyQualifiedTypeName name="lombok.Builder.Default"/>
+    <fullyQualifiedTypeName name="reactor.core.scheduler.Schedulers"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.flux.NameGenerator"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.helpers.NameGenerator"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.utils.Utils"/>
-    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="reactor.core.publisher.Flux"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.helpers.QuatarFlights"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.helpers.EmirateFlights"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.helpers.AmericanAirlinesFlights"/>
+    <fullyQualifiedTypeName name="com.glen.reactor.projectreactor.utils.DefaultSubscriber"/>
 </qualifiedTypeNameHistroy>

@@ -32,4 +32,12 @@ public class Utils {
 			e.printStackTrace();
 		}
 	}
+	
+	public static void sleepMillis(int millis) {
+		try {
+			Thread.sleep(millis);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 }
