@@ -4775,3 +4775,249 @@ java.util.ConcurrentModificationException: null
 2022-07-16 16:53:06,950 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2022-07-16 16:53:06,954 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-16 16:53:06,957 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 09:45:28,477 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-23 09:47:36,714 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:47:36,724 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 09:47:36,739 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:47:36,740 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 09:47:55,046 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:47:55,095 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 09:47:55,099 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:47:55,100 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 09:50:12,426 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:50:12,428 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 09:50:12,439 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:50:12,439 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 09:50:55,448 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:50:55,450 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 09:50:55,462 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:50:55,463 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 09:53:44,838 [Worker-5: Launching Buffer (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:53:44,842 [Worker-5: Launching Buffer (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 09:53:44,855 [Worker-5: Launching Buffer (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 09:53:44,855 [Worker-5: Launching Buffer (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:03:35,801 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:03:36,481 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:03:36,684 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:03:36,738 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:04:02,603 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:04:02,604 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:04:02,610 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:04:02,611 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:07:45,582 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:07:45,643 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:07:45,659 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:07:45,662 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:10:01,168 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:10:01,169 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:10:01,173 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:10:01,173 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:21:28,307 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:21:28,309 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:21:28,343 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:21:28,343 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:24:23,695 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:24:23,700 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:24:23,727 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:24:23,727 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:24:48,094 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:24:48,097 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:24:48,101 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:24:48,102 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:24:54,105 [Worker-32: Launching Window] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:24:54,111 [Worker-32: Launching Window] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:24:54,115 [Worker-32: Launching Window] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:24:54,116 [Worker-32: Launching Window] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:27:58,829 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:27:58,830 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:27:58,833 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:27:58,833 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:29:09,331 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:29:09,333 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:29:09,352 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:29:09,353 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:29:40,542 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:29:40,544 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:29:40,559 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:29:40,560 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:29:48,453 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:29:48,454 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:29:48,468 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:29:48,469 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:30:58,940 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:30:58,941 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:30:58,945 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:30:58,945 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:31:37,930 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:31:37,931 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:31:37,934 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:31:37,934 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:38:09,224 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:38:09,424 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:38:09,513 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:38:09,518 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:45:06,312 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:45:06,313 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:45:06,316 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:45:06,316 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:45:15,861 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:45:15,862 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:45:15,870 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:45:15,871 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:45:56,393 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:45:56,395 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:45:56,397 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:45:56,398 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:46:04,935 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:46:04,936 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:46:04,939 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:46:04,940 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:46:24,329 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:46:24,334 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:46:24,339 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:46:24,339 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-23 10:46:38,393 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:46:38,394 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-23 10:46:38,397 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-23 10:46:38,398 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 09:50:15,174 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-30 10:05:52,387 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:05:52,465 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:05:52,581 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:05:52,582 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:06:03,686 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:06:03,715 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:06:03,719 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:06:03,720 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:06:21,389 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:06:21,390 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:06:21,395 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:06:21,395 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:08:54,759 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:08:54,760 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:08:54,765 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:08:54,765 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:09:16,059 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:09:16,061 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:09:16,064 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:09:16,069 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:10:21,536 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:10:21,549 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:10:21,552 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:10:21,552 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:12:12,554 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:12:12,555 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:12:12,560 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:12:12,560 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:12:48,767 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:12:48,769 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:12:48,774 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:12:48,783 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:17:59,325 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:17:59,330 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:17:59,338 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:17:59,352 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:18:23,403 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:18:23,406 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:18:23,410 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:18:23,410 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:20:04,902 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:20:04,905 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:20:04,910 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:20:04,911 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:21:44,619 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:21:44,621 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:21:44,635 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:21:44,636 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:22:04,103 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:22:04,105 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:22:04,108 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:22:04,109 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:22:15,695 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:22:15,697 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:22:15,700 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:22:15,701 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:23:07,599 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:23:07,603 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:23:07,606 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:23:07,607 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:23:23,788 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:23:23,793 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:23:23,799 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:23:23,799 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:24:49,535 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:24:49,536 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:24:49,604 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:24:49,605 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:25:49,722 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:25:49,723 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:25:49,728 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:25:49,728 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:31:26,912 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:31:26,913 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:31:26,916 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:31:26,917 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:33:56,143 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:33:56,144 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:33:56,147 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:33:56,147 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:36:07,513 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:36:07,520 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:36:07,525 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:36:07,525 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:36:09,794 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:36:09,795 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:36:09,798 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:36:09,799 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:37:03,872 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:37:03,877 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:37:03,895 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:37:03,895 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:37:28,894 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:37:28,896 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:37:28,900 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:37:28,900 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:37:41,619 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:37:41,620 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:37:41,624 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:37:41,624 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:38:10,952 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:38:10,953 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:38:10,956 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:38:10,957 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:41:41,279 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:41:41,281 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:41:41,296 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:41:41,296 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:41:48,410 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:41:48,411 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:41:48,433 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:41:48,433 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:42:00,090 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:42:00,092 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:42:00,095 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:42:00,095 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:42:10,967 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:42:10,977 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:42:10,984 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:42:10,984 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:42:19,845 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:42:19,846 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:42:19,849 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:42:19,849 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:43:50,963 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:43:50,966 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:43:50,970 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:43:50,971 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:44:21,780 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:44:21,782 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:44:21,794 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:44:21,795 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:44:56,102 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:44:56,103 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:44:56,106 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:44:56,107 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
+2022-07-30 10:45:18,517 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:45:18,518 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-07-30 10:45:18,521 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-30 10:45:18,522 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/glen/Projects/Java-Projects/Reactive-java/projectreactor/src/test/resources
